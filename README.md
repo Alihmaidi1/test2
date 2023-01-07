@@ -15,7 +15,7 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-### Finaly run 
+### Finally run 
 ```
 php artisan serve
 ```
